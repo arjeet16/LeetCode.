@@ -7,6 +7,7 @@ My LeetCode DSA solutions and interview preparation
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/arjeet16/LeetCode./tree/master/0001-two-sum) |
+| [0704-binary-search](https://github.com/arjeet16/LeetCode./tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/arjeet16/LeetCode./tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/arjeet16/LeetCode./tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Hash Table
@@ -20,5 +21,6 @@ My LeetCode DSA solutions and interview preparation
 ## Binary Search
 |  |
 | ------- |
+| [0704-binary-search](https://github.com/arjeet16/LeetCode./tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/arjeet16/LeetCode./tree/master/0744-find-smallest-letter-greater-than-target) |
 <!---LeetCode Topics End-->
