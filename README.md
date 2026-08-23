@@ -9,6 +9,7 @@ My LeetCode DSA solutions and interview preparation
 | [0001-two-sum](https://github.com/arjeet16/LeetCode./tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/arjeet16/LeetCode./tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/arjeet16/LeetCode./tree/master/0042-trapping-rain-water) |
+| [0238-product-of-array-except-self](https://github.com/arjeet16/LeetCode./tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/arjeet16/LeetCode./tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/arjeet16/LeetCode./tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/arjeet16/LeetCode./tree/master/0724-find-pivot-index) |
@@ -23,6 +24,7 @@ My LeetCode DSA solutions and interview preparation
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/arjeet16/LeetCode./tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/arjeet16/LeetCode./tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/arjeet16/LeetCode./tree/master/0724-find-pivot-index) |
 ## Binary Search
