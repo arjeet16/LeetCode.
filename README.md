@@ -9,6 +9,7 @@ My LeetCode DSA solutions and interview preparation
 | [0001-two-sum](https://github.com/arjeet16/LeetCode./tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/arjeet16/LeetCode./tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/arjeet16/LeetCode./tree/master/0042-trapping-rain-water) |
+| [0189-rotate-array](https://github.com/arjeet16/LeetCode./tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/arjeet16/LeetCode./tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/arjeet16/LeetCode./tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/arjeet16/LeetCode./tree/master/0704-binary-search) |
@@ -45,6 +46,7 @@ My LeetCode DSA solutions and interview preparation
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/arjeet16/LeetCode./tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/arjeet16/LeetCode./tree/master/0042-trapping-rain-water) |
+| [0189-rotate-array](https://github.com/arjeet16/LeetCode./tree/master/0189-rotate-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -61,4 +63,8 @@ My LeetCode DSA solutions and interview preparation
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/arjeet16/LeetCode./tree/master/0008-string-to-integer-atoi) |
+## Math
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/arjeet16/LeetCode./tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
