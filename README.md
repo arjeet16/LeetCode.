@@ -9,6 +9,7 @@ My LeetCode DSA solutions and interview preparation
 | [0001-two-sum](https://github.com/arjeet16/LeetCode./tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/arjeet16/LeetCode./tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/arjeet16/LeetCode./tree/master/0042-trapping-rain-water) |
+| [0056-merge-intervals](https://github.com/arjeet16/LeetCode./tree/master/0056-merge-intervals) |
 | [0189-rotate-array](https://github.com/arjeet16/LeetCode./tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/arjeet16/LeetCode./tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/arjeet16/LeetCode./tree/master/0560-subarray-sum-equals-k) |
@@ -67,4 +68,12 @@ My LeetCode DSA solutions and interview preparation
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/arjeet16/LeetCode./tree/master/0189-rotate-array) |
+## Sorting
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/arjeet16/LeetCode./tree/master/0056-merge-intervals) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/arjeet16/LeetCode./tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
