@@ -55,4 +55,8 @@ My LeetCode DSA solutions and interview preparation
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/arjeet16/LeetCode./tree/master/0042-trapping-rain-water) |
+## String
+|  |
+| ------- |
+| [0008-string-to-integer-atoi](https://github.com/arjeet16/LeetCode./tree/master/0008-string-to-integer-atoi) |
 <!---LeetCode Topics End-->
