@@ -11,6 +11,7 @@ My LeetCode DSA solutions and interview preparation
 | [0042-trapping-rain-water](https://github.com/arjeet16/LeetCode./tree/master/0042-trapping-rain-water) |
 | [0054-spiral-matrix](https://github.com/arjeet16/LeetCode./tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/arjeet16/LeetCode./tree/master/0056-merge-intervals) |
+| [0078-subsets](https://github.com/arjeet16/LeetCode./tree/master/0078-subsets) |
 | [0189-rotate-array](https://github.com/arjeet16/LeetCode./tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/arjeet16/LeetCode./tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/arjeet16/LeetCode./tree/master/0560-subarray-sum-equals-k) |
@@ -42,6 +43,7 @@ My LeetCode DSA solutions and interview preparation
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/arjeet16/LeetCode./tree/master/0078-subsets) |
 | [1386-cinema-seat-allocation](https://github.com/arjeet16/LeetCode./tree/master/1386-cinema-seat-allocation) |
 ## Two Pointers
 |  |
@@ -85,4 +87,8 @@ My LeetCode DSA solutions and interview preparation
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/arjeet16/LeetCode./tree/master/0054-spiral-matrix) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/arjeet16/LeetCode./tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
