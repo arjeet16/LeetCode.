@@ -9,6 +9,7 @@ My LeetCode DSA solutions and interview preparation
 | [0001-two-sum](https://github.com/arjeet16/LeetCode./tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/arjeet16/LeetCode./tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/arjeet16/LeetCode./tree/master/0042-trapping-rain-water) |
+| [0046-permutations](https://github.com/arjeet16/LeetCode./tree/master/0046-permutations) |
 | [0054-spiral-matrix](https://github.com/arjeet16/LeetCode./tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/arjeet16/LeetCode./tree/master/0056-merge-intervals) |
 | [0078-subsets](https://github.com/arjeet16/LeetCode./tree/master/0078-subsets) |
@@ -90,5 +91,6 @@ My LeetCode DSA solutions and interview preparation
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/arjeet16/LeetCode./tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/arjeet16/LeetCode./tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
