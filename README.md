@@ -16,6 +16,7 @@ My LeetCode DSA solutions and interview preparation
 | [0189-rotate-array](https://github.com/arjeet16/LeetCode./tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/arjeet16/LeetCode./tree/master/0238-product-of-array-except-self) |
 | [0349-intersection-of-two-arrays](https://github.com/arjeet16/LeetCode./tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/arjeet16/LeetCode./tree/master/0350-intersection-of-two-arrays-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/arjeet16/LeetCode./tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/arjeet16/LeetCode./tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/arjeet16/LeetCode./tree/master/0724-find-pivot-index) |
@@ -26,6 +27,7 @@ My LeetCode DSA solutions and interview preparation
 | ------- |
 | [0001-two-sum](https://github.com/arjeet16/LeetCode./tree/master/0001-two-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/arjeet16/LeetCode./tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/arjeet16/LeetCode./tree/master/0350-intersection-of-two-arrays-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/arjeet16/LeetCode./tree/master/0560-subarray-sum-equals-k) |
 | [1386-cinema-seat-allocation](https://github.com/arjeet16/LeetCode./tree/master/1386-cinema-seat-allocation) |
 ## Prefix Sum
@@ -38,6 +40,7 @@ My LeetCode DSA solutions and interview preparation
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/arjeet16/LeetCode./tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/arjeet16/LeetCode./tree/master/0350-intersection-of-two-arrays-ii) |
 | [0704-binary-search](https://github.com/arjeet16/LeetCode./tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/arjeet16/LeetCode./tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Greedy
@@ -56,6 +59,7 @@ My LeetCode DSA solutions and interview preparation
 | [0042-trapping-rain-water](https://github.com/arjeet16/LeetCode./tree/master/0042-trapping-rain-water) |
 | [0189-rotate-array](https://github.com/arjeet16/LeetCode./tree/master/0189-rotate-array) |
 | [0349-intersection-of-two-arrays](https://github.com/arjeet16/LeetCode./tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/arjeet16/LeetCode./tree/master/0350-intersection-of-two-arrays-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -81,6 +85,7 @@ My LeetCode DSA solutions and interview preparation
 | ------- |
 | [0056-merge-intervals](https://github.com/arjeet16/LeetCode./tree/master/0056-merge-intervals) |
 | [0349-intersection-of-two-arrays](https://github.com/arjeet16/LeetCode./tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/arjeet16/LeetCode./tree/master/0350-intersection-of-two-arrays-ii) |
 ## Quicksort
 |  |
 | ------- |
