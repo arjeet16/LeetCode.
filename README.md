@@ -57,6 +57,7 @@ My LeetCode DSA solutions and interview preparation
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/arjeet16/LeetCode./tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/arjeet16/LeetCode./tree/master/0042-trapping-rain-water) |
+| [0125-valid-palindrome](https://github.com/arjeet16/LeetCode./tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/arjeet16/LeetCode./tree/master/0189-rotate-array) |
 | [0349-intersection-of-two-arrays](https://github.com/arjeet16/LeetCode./tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/arjeet16/LeetCode./tree/master/0350-intersection-of-two-arrays-ii) |
@@ -76,6 +77,7 @@ My LeetCode DSA solutions and interview preparation
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/arjeet16/LeetCode./tree/master/0008-string-to-integer-atoi) |
+| [0125-valid-palindrome](https://github.com/arjeet16/LeetCode./tree/master/0125-valid-palindrome) |
 ## Math
 |  |
 | ------- |
