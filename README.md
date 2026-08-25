@@ -62,6 +62,7 @@ My LeetCode DSA solutions and interview preparation
 | [0125-valid-palindrome](https://github.com/arjeet16/LeetCode./tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/arjeet16/LeetCode./tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/arjeet16/LeetCode./tree/master/0189-rotate-array) |
+| [0344-reverse-string](https://github.com/arjeet16/LeetCode./tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/arjeet16/LeetCode./tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/arjeet16/LeetCode./tree/master/0350-intersection-of-two-arrays-ii) |
 ## Dynamic Programming
@@ -81,6 +82,7 @@ My LeetCode DSA solutions and interview preparation
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/arjeet16/LeetCode./tree/master/0008-string-to-integer-atoi) |
 | [0125-valid-palindrome](https://github.com/arjeet16/LeetCode./tree/master/0125-valid-palindrome) |
+| [0344-reverse-string](https://github.com/arjeet16/LeetCode./tree/master/0344-reverse-string) |
 ## Math
 |  |
 | ------- |
