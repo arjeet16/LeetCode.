@@ -57,6 +57,7 @@ My LeetCode DSA solutions and interview preparation
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/arjeet16/LeetCode./tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/arjeet16/LeetCode./tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/arjeet16/LeetCode./tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/arjeet16/LeetCode./tree/master/0125-valid-palindrome) |
@@ -111,4 +112,8 @@ My LeetCode DSA solutions and interview preparation
 | ------- |
 | [0046-permutations](https://github.com/arjeet16/LeetCode./tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/arjeet16/LeetCode./tree/master/0078-subsets) |
+## Linked List
+|  |
+| ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/arjeet16/LeetCode./tree/master/0019-remove-nth-node-from-end-of-list) |
 <!---LeetCode Topics End-->
