@@ -88,6 +88,7 @@ My LeetCode DSA solutions and interview preparation
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/arjeet16/LeetCode./tree/master/0002-add-two-numbers) |
 | [0189-rotate-array](https://github.com/arjeet16/LeetCode./tree/master/0189-rotate-array) |
 ## Sorting
 |  |
@@ -115,5 +116,10 @@ My LeetCode DSA solutions and interview preparation
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/arjeet16/LeetCode./tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/arjeet16/LeetCode./tree/master/0019-remove-nth-node-from-end-of-list) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/arjeet16/LeetCode./tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
