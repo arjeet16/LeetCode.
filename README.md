@@ -122,4 +122,16 @@ My LeetCode DSA solutions and interview preparation
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/arjeet16/LeetCode./tree/master/0002-add-two-numbers) |
+## Tree
+|  |
+| ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/arjeet16/LeetCode./tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Depth-First Search
+|  |
+| ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/arjeet16/LeetCode./tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Binary Tree
+|  |
+| ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/arjeet16/LeetCode./tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 <!---LeetCode Topics End-->
