@@ -49,6 +49,7 @@ My LeetCode DSA solutions and interview preparation
 |  |
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/arjeet16/LeetCode./tree/master/1386-cinema-seat-allocation) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/arjeet16/LeetCode./tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -66,10 +67,12 @@ My LeetCode DSA solutions and interview preparation
 | [0344-reverse-string](https://github.com/arjeet16/LeetCode./tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/arjeet16/LeetCode./tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/arjeet16/LeetCode./tree/master/0350-intersection-of-two-arrays-ii) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/arjeet16/LeetCode./tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/arjeet16/LeetCode./tree/master/0042-trapping-rain-water) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/arjeet16/LeetCode./tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Stack
 |  |
 | ------- |
@@ -85,6 +88,7 @@ My LeetCode DSA solutions and interview preparation
 | [0008-string-to-integer-atoi](https://github.com/arjeet16/LeetCode./tree/master/0008-string-to-integer-atoi) |
 | [0125-valid-palindrome](https://github.com/arjeet16/LeetCode./tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/arjeet16/LeetCode./tree/master/0344-reverse-string) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/arjeet16/LeetCode./tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Math
 |  |
 | ------- |
