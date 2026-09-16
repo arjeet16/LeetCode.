@@ -37,6 +37,7 @@ My LeetCode DSA solutions and interview preparation
 | [0238-product-of-array-except-self](https://github.com/arjeet16/LeetCode./tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/arjeet16/LeetCode./tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/arjeet16/LeetCode./tree/master/0724-find-pivot-index) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/arjeet16/LeetCode./tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 ## Binary Search
 |  |
 | ------- |
@@ -72,6 +73,7 @@ My LeetCode DSA solutions and interview preparation
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/arjeet16/LeetCode./tree/master/0042-trapping-rain-water) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/arjeet16/LeetCode./tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/arjeet16/LeetCode./tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Stack
 |  |
@@ -94,6 +96,7 @@ My LeetCode DSA solutions and interview preparation
 | ------- |
 | [0002-add-two-numbers](https://github.com/arjeet16/LeetCode./tree/master/0002-add-two-numbers) |
 | [0189-rotate-array](https://github.com/arjeet16/LeetCode./tree/master/0189-rotate-array) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/arjeet16/LeetCode./tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 ## Sorting
 |  |
 | ------- |
@@ -138,4 +141,8 @@ My LeetCode DSA solutions and interview preparation
 |  |
 | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/arjeet16/LeetCode./tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Combinatorics
+|  |
+| ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/arjeet16/LeetCode./tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 <!---LeetCode Topics End-->
