@@ -31,6 +31,7 @@ My LeetCode DSA solutions and interview preparation
 | [0350-intersection-of-two-arrays-ii](https://github.com/arjeet16/LeetCode./tree/master/0350-intersection-of-two-arrays-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/arjeet16/LeetCode./tree/master/0560-subarray-sum-equals-k) |
 | [1386-cinema-seat-allocation](https://github.com/arjeet16/LeetCode./tree/master/1386-cinema-seat-allocation) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/arjeet16/LeetCode./tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -50,6 +51,7 @@ My LeetCode DSA solutions and interview preparation
 |  |
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/arjeet16/LeetCode./tree/master/1386-cinema-seat-allocation) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/arjeet16/LeetCode./tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/arjeet16/LeetCode./tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Bit Manipulation
 |  |
@@ -90,6 +92,7 @@ My LeetCode DSA solutions and interview preparation
 | [0008-string-to-integer-atoi](https://github.com/arjeet16/LeetCode./tree/master/0008-string-to-integer-atoi) |
 | [0125-valid-palindrome](https://github.com/arjeet16/LeetCode./tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/arjeet16/LeetCode./tree/master/0344-reverse-string) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/arjeet16/LeetCode./tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/arjeet16/LeetCode./tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Math
 |  |
@@ -103,6 +106,7 @@ My LeetCode DSA solutions and interview preparation
 | [0056-merge-intervals](https://github.com/arjeet16/LeetCode./tree/master/0056-merge-intervals) |
 | [0349-intersection-of-two-arrays](https://github.com/arjeet16/LeetCode./tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/arjeet16/LeetCode./tree/master/0350-intersection-of-two-arrays-ii) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/arjeet16/LeetCode./tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 ## Quicksort
 |  |
 | ------- |
